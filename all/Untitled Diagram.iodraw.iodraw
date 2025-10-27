@@ -44,7 +44,7 @@
           <mxGeometry x="153" y="853" width="254" height="66" as="geometry" />
         </mxCell>
         <mxCell id="3TA1T25R9kbYRSsi69BK-15" value="通义千问API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="207" y="970" width="147" height="49" as="geometry" />
+          <mxGeometry x="530" y="50" width="147" height="49" as="geometry" />
         </mxCell>
         <mxCell id="3TA1T25R9kbYRSsi69BK-16" value="接收请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="218" y="1068" width="124" height="49" as="geometry" />
